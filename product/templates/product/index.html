@@ -1,0 +1,9 @@
+{% extends "product/base.html" %}
+
+<div class="col">
+{% block content %}
+    {% for isim in isimler %}
+        {{isim}}
+    {% endfor %}
+{% endblock content %}
+</div>
