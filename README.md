@@ -1,4 +1,4 @@
 # mysite 
 
 ismail aslanbay
-deneme 
+deneme bir revize daha
